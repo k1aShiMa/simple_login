@@ -1,0 +1,7 @@
+{
+    "require": {
+        "fakerphp/faker": "^1.23",
+        "phpmailer/phpmailer": "^6.9",
+        "suncat/php-mobile-detect": "^2.0"
+    }
+}
